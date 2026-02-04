@@ -28,3 +28,5 @@ print("Marks:", marks)
 print("Total:", total)
 print("Average:", average)
 
+sssssssssssssssssssssssssssss
+
