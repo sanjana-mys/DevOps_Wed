@@ -28,14 +28,3 @@ print("Marks:", marks)
 print("Total:", total)
 print("Average:", average)
 
-# Grade decision
-if average >= 90:
-    grade = "A"
-elif average >= 75:
-    grade = "B"
-elif average >= 60:
-    grade = "C"
-else:
-    grade = "Fail"
-
-print("Grade:", grade)
