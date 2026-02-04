@@ -19,8 +19,8 @@ for i in range(1, 6):
 
 # Calculate result
 total, average = calculate_result(marks)
-
-# Display result
+ fgjylfipoijdjnuy
+# Display resultvghdgjhvh
 print("\n----- Student Result -----")
 print("Name:", name)
 print("Roll No:", roll_no)
